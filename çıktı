@@ -1,0 +1,13 @@
+#çıktı
+Mesafe (1, 2) ile (4, 6) arasında: 5.00
+Mesafe (1, 2) ile (5, 7) arasında: 6.40
+Mesafe (1, 2) ile (8, 9) arasında: 9.90
+Mesafe (1, 2) ile (2, 3) arasında: 1.41
+Mesafe (4, 6) ile (5, 7) arasında: 1.41
+Mesafe (4, 6) ile (8, 9) arasında: 5.00
+Mesafe (4, 6) ile (2, 3) arasında: 3.61
+Mesafe (5, 7) ile (8, 9) arasında: 3.61
+Mesafe (5, 7) ile (2, 3) arasında: 5.00
+Mesafe (8, 9) ile (2, 3) arasında: 8.49
+
+En kısa mesafe: 1.41
